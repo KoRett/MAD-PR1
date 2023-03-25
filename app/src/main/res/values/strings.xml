@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PR1</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="text1">Это первая практическая работа по дисциплине Разработка мобильных приложениий.</string>
+    <string name="text2">Урааааааааааа товарищи!</string>
+    <string name="text3">Измените текст.</string>
+    <string name="button_text_first">Изменить</string>
+    <string name="button_text_second">2</string>
+    <string name="button_text_third">3</string>
+</resources>
